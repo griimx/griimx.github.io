@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://griimx.github.io
+title: My Frantic Life
+tagline: My thoughts and days in words
+description: This is the place where i end up expressing my thoughts
+paginate: 5
