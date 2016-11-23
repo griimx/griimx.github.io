@@ -9,7 +9,7 @@ Describing the software project a little bit, namely Multi User Text Editor that
 
 State of project when i started this entry : I have code for a simple editor, and all the GUIs that will be used to create this software project.
 
-##**Update 1**
+#**Update 1**
 I researched my way all through Stackoverflow and Quora and reached some solutions. Looks like i am going to skip all the classes tomorrow. Next week every working day i have a lab evaluation and my software project group mates are starting to get worried as the deadline is getting close, they are afraid of the documents. So i had to ensure them of some progress but literally i have still no idea. 
 
 The things i came to know about Multi User Text Editor are :
