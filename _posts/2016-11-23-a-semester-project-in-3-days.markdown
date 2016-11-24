@@ -14,3 +14,8 @@ I researched my way all through Stackoverflow and Quora and reached some solutio
 
 The things i came to know about Multi User Text Editor are :
 **Operational Transformation** The Algorithm that will manage the commits made my different users at a time and how to handle them without causing any conflicts.
+
+#**Update 2**
+I am done with Syntax Highlighting, used Pygment package for creating tags and parsing them to highlight keywords. For upcoming evaluation i am leaving it with default Python syntax detection. But will certainly add more code to guess the program language by file name.
+Starting of with writing code for client and server side. Py-infinote came to rescue. Demo codes in Jinfinote, a Javascript implementation of the Infinote protocol, protocol designed to manage requests by a server in text collaborative scenario.
+  
